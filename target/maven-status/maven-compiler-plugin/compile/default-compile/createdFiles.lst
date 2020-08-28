@@ -1,0 +1,5 @@
+br\com\oauth2\poc\AuthApplication.class
+br\com\oauth2\poc\config\DataInitializier.class
+br\com\oauth2\poc\controller\UserController.class
+br\com\oauth2\poc\entity\User.class
+br\com\oauth2\poc\repository\UserRepository.class
